@@ -1,0 +1,4 @@
+g++ -O3 MainTestHam1D.cpp -lm -lfftw3 -I../include/
+./a.out
+
+#run the matlab file MainTestHam1D.m

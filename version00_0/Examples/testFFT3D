@@ -1,0 +1,3 @@
+g++ -O3 MainTestFFT3D.cpp -lm -lfftw3 -I../include/
+./a.out
+#run the matlab file MainTestFFT3D.m

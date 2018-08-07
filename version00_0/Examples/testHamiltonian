@@ -1,0 +1,5 @@
+g++ -O3 MainTestHamiltonian.cpp -lm -lfftw3 -I../include/
+./a.out
+split -6400 out5.txt
+ls x* > lista
+#run the matlab file MainTestHamiltonian.m
